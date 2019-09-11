@@ -1,15 +1,30 @@
 Jason Kumpf
 ===========
 
-**Laurel, MD \| kumpf.jason@gmail.com**
+`Laurel,
+MD <https://goo.gl/maps/u9nSFWnf13CADqYo9>`__\ **\|**\ kumpf.jason@gmail.com\ **\|**\ `jasonkumpf.com <https://jasonkumpf.com>`__\ **\|**\ `Github <https://github.com/contd>`__
 
 Experience
 ----------
 
+Desktop Support Admin
+~~~~~~~~~~~~~~~~~~~~~
+
+`Roundtower <https://www.roundtower.com/>`__\ *- March 2019 - September
+2019*
+
+The client support services team needed a desktop support on-site lead
+for a customer and as a favor to the team lead who is my brother-in-law
+agreed to contract the position until they found a full time
+replacement. Responsabilities included supporting all aspects of
+building and maintaining IT equipment and over 300 employees at the
+client location (CNSI - Rockville, MD). Other responsabilities included
+data center equipment maintinence and monitoring.
+
 Software Engineer
 ~~~~~~~~~~~~~~~~~
 
-*`Senseye <https://senseye.io>`__ - November 2017 - December 2018*
+`Senseye <https://senseye.io>`__\ *- November 2017 - December 2018*
 
 Worked with both customers and other developers to develop various tools
 and additions to the data ingestion pipeline, which fed the main
@@ -23,7 +38,7 @@ testing and continuous integration.
 Adjunct Faculty
 ~~~~~~~~~~~~~~~
 
-*`University of Cincinnati <http://www.uc.edu>`__ - August 2015 - June
+`University of Cincinnati <http://www.uc.edu>`__\ *- August 2015 - June
 2016*
 
 Full time adjunct faculty member (in the College of Education, Criminal
@@ -36,9 +51,9 @@ through the course of their projects development.
 Senior Software Engineer
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
-*`Academic
-Benchmarks <https://www.linkedin.com/company/academic-benchmarks/about/>`__
-- March 2013 - November 2014*
+`Academic
+Benchmarks <https://www.linkedin.com/company/academic-benchmarks/about/>`__\ *-
+March 2013 - November 2014*
 
 Participated in all phases of the software development life-cycle,
 including the architecture of solutions, creation of design
@@ -56,13 +71,14 @@ the quality of the team and our development process.
 Research Assistant - Web/DB/SysAdmin
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*`University of Cincinnati Infrastructure
-Institute <http://ucii.ceas.uc.edu/>`__ - September 2008 - August 2014*
+`University of Cincinnati Infrastructure
+Institute <http://ucii.ceas.uc.edu/>`__\ *- September 2008 - August
+2014*
 
-Responsible for upgrading and converting the research group's web
+Responsible for upgrading and converting the research group’s web
 application for reporting the real time status of various bridge
 monitors or monitoring of sensor data projects which included a real
-time assessment of the general public's physical safety from potential
+time assessment of the general public’s physical safety from potential
 harm due to certain weather conditions. (see Paper below). The systems
 grew as several new projects were taken on at the beginning and through
 the time spent there. Most projects involved pretty complex decision
@@ -74,7 +90,7 @@ from code down to methods for implementing new systems and new features.
 Interim IT Director
 ~~~~~~~~~~~~~~~~~~~
 
-*`University of Cincinnati <http://www.uc.edu>`__ - June 2004 - August
+`University of Cincinnati <http://www.uc.edu>`__\ *- June 2004 - August
 2008*
 
 Started as Applications analyst developing and improving software
@@ -91,7 +107,7 @@ salaries.
 Applications Analyst
 ~~~~~~~~~~~~~~~~~~~~
 
-*`University of Cincinnati <http://www.uc.edu>`__- June 2004 - August
+`University of Cincinnati <http://www.uc.edu>`__\ *- June 2004 - August
 2008*
 
 Responsible for maintaining and supporting IT operations affected by
@@ -103,12 +119,12 @@ tolerance for critical applications and reduce redundancy of
 services/applications. Additional duties include the development of
 support materials (CMS or Technical knowledge, manuals, etc.),
 conducting occasional training sessions, moderate supervision of team
-members' projects and student workers.
+members’ projects and student workers.
 
 Programmer/Analyst
 ~~~~~~~~~~~~~~~~~~
 
-*`Scenario Learning/Safe Schools <https://www.safeschools.com/>`__ -
+`Scenario Learning/Safe Schools <https://www.safeschools.com/>`__\ *-
 10/2002 - 1/2004, Cincinnati, OH*
 
 In charge of developing a web application involving extensive Perl, XML,
@@ -117,11 +133,13 @@ developing an in-house SGML/XML document management system to be used to
 synchronize on-line documents with in-house documents. Came up with an
 easy solution to convert MS Word documents to SML/XML DocBook markup.
 
+.. _programmeranalyst-1:
+
 Programmer/Analyst
 ~~~~~~~~~~~~~~~~~~
 
-*`Thinkronize/Knovation <https://www.knovationlearning.com/>`__ - 6/2000
-- 10/2002, Cincinnati, OH*
+`Thinkronize/Knovation <https://www.knovationlearning.com/>`__\ *-
+6/2000 - 10/2002, Cincinnati, OH*
 
 Determine system requirements by working with programming manager,
 product managers, and others as needed. Provide technical perspective to
@@ -133,7 +151,7 @@ place into production. Resolve issues related to production software.
 Provide support for staff PCs and SunRay Workstations, including
 internal networking. Aid in development and support of internal software
 used daily by most of the staff which served the primary library or
-knowledge base for the company's product line and services.
+knowledge base for the company’s product line and services.
 
 Education
 ---------
@@ -154,8 +172,8 @@ B.S. Mechanical Engineering Technology
 -  **Senior Project**: Automated Data Collection System for Heat
    Transfer Laboratory Experiment
 
-Ph.D. (ABD) Electrical Engineering
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ph.D. Electrical Engineering (All But Dissertation)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 *University of Cincinnati - September 2008 - May 2015*
 
@@ -168,11 +186,20 @@ Ph.D. (ABD) Electrical Engineering
 Publications
 ------------
 
-`Kumpf, J., Helmicki, A., Nims, D., Hunt, V., and Agrawal, S. (2012).
-"Automated Ice Inference and Monitoring on the Veterans' Glass City
-Skyway Bridge." J. Bridge Eng. 17, SPECIAL ISSUE: Nondestructive
-Evaluation and Testing for Bridge Inspection and Evaluation,
-975-978. <https://www.researchgate.net/publication/257921037_Automated_Ice_Inference_and_Monitoring_on_the_Veterans_Glass_City_Skyway_Bridge>`__
+`Automated Ice Inference and Monitoring on the Veterans’ Glass City
+Skyway
+Bridge. <https://www.researchgate.net/publication/257921037_Automated_Ice_Inference_and_Monitoring_on_the_Veterans_Glass_City_Skyway_Bridge>`__
+Kumpf, J., Helmicki, A., Nims, D., Hunt, V., and Agrawal, S. (2012). J.
+Bridge Eng. 17, SPECIAL ISSUE: Nondestructive Evaluation and Testing for
+Bridge Inspection and Evaluation, 975-978.
+
+**Automated Health Monitoring of an Aged and Deteriorated Truss.** G
+Kimmel, J Kumpf, V Hunt, J Swanson, A Helmicki. Fall Conference &
+Quality Testing Show 2009, 2009
+
+**An integrated monitor and warning system for the Jeremiah Morrow
+bridge.** M Norouzi, J Kumpf, V Hunt, A Helmicki. Structural Materials
+Technology 2012, 2012
 
 References
 ----------

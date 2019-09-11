@@ -1,8 +1,14 @@
 ﻿# Jason Kumpf
 
-__Laurel, MD \| [kumpf.jason@gmail.com](mailto:kumpf.jason@gmail.com)__
+__[Laurel, MD](https://goo.gl/maps/u9nSFWnf13CADqYo9) \| [kumpf.jason@gmail.com](mailto:kumpf.jason@gmail.com) \| [jasonkumpf.com](https://jasonkumpf.com) \| [Github](https://github.com/contd)__
 
 ## Experience
+
+### Desktop Support Admin
+
+*[Roundtower](https://www.roundtower.com/) - March 2019 - September 2019*
+
+The client support services team needed a desktop support on-site lead for a customer and as a favor to the team lead who is my brother-in-law agreed to contract the position until they found a full time replacement.  Responsabilities included supporting all aspects of building and maintaining IT equipment and over 300 employees at the client location (CNSI - Rockville, MD).  Other responsabilities included data center equipment maintinence and monitoring.
 
 ### Software Engineer
 
@@ -66,7 +72,7 @@ Determine system requirements by working with programming manager, product manag
 
 * **Senior Project**: Automated Data Collection System for Heat Transfer Laboratory Experiment
 
-### Ph.D. (ABD) Electrical Engineering
+### Ph.D. Electrical Engineering (All But Dissertation)
 
 *University of Cincinnati - September 2008 - May 2015*
 
@@ -76,7 +82,11 @@ Determine system requirements by working with programming manager, product manag
 
 ## Publications
 
-[Kumpf, J., Helmicki, A., Nims, D., Hunt, V., and Agrawal, S. (2012). "Automated Ice Inference and Monitoring on the Veterans' Glass City Skyway Bridge." J. Bridge Eng. 17, SPECIAL ISSUE: Nondestructive Evaluation and Testing for Bridge Inspection and Evaluation, 975-978.](https://www.researchgate.net/publication/257921037_Automated_Ice_Inference_and_Monitoring_on_the_Veterans_Glass_City_Skyway_Bridge)
+__[Automated Ice Inference and Monitoring on the Veterans' Glass City Skyway Bridge.](https://www.researchgate.net/publication/257921037_Automated_Ice_Inference_and_Monitoring_on_the_Veterans_Glass_City_Skyway_Bridge)__ Kumpf, J., Helmicki, A., Nims, D., Hunt, V., and Agrawal, S. (2012). J. Bridge Eng. 17, SPECIAL ISSUE: Nondestructive Evaluation and Testing for Bridge Inspection and Evaluation, 975-978.
+
+__Automated Health Monitoring of an Aged and Deteriorated Truss.__ G Kimmel, J Kumpf, V Hunt, J Swanson, A Helmicki. Fall Conference & Quality Testing Show 2009, 2009
+
+__An integrated monitor and warning system for the Jeremiah Morrow bridge.__ M Norouzi, J Kumpf, V Hunt, A Helmicki. Structural Materials Technology 2012, 2012
 
 ## References
 

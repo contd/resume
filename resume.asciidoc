@@ -1,14 +1,26 @@
-[[jason-kumpf]]
 Jason Kumpf
 -----------
 
-*Laurel, MD | kumpf.jason@gmail.com*
+*https://goo.gl/maps/u9nSFWnf13CADqYo9[Laurel, MD] |
+kumpf.jason@gmail.com | https://jasonkumpf.com[jasonkumpf.com] |
+https://github.com/contd[Github]*
 
-[[experience]]
 Experience
 ~~~~~~~~~~
 
-[[software-engineer]]
+Desktop Support Admin
+^^^^^^^^^^^^^^^^^^^^^
+
+_https://www.roundtower.com/[Roundtower] - March 2019 - September 2019_
+
+The client support services team needed a desktop support on-site lead
+for a customer and as a favor to the team lead who is my brother-in-law
+agreed to contract the position until they found a full time
+replacement. Responsabilities included supporting all aspects of
+building and maintaining IT equipment and over 300 employees at the
+client location (CNSI - Rockville, MD). Other responsabilities included
+data center equipment maintinence and monitoring.
+
 Software Engineer
 ^^^^^^^^^^^^^^^^^
 
@@ -23,7 +35,6 @@ vital. During a transition of project management, my team began the
 switch to TypeScript and more sophisticated AWS/ECS integration for both
 testing and continuous integration.
 
-[[adjunct-faculty]]
 Adjunct Faculty
 ^^^^^^^^^^^^^^^
 
@@ -36,7 +47,6 @@ Other courses were network design and database design with SQL Server.
 Also responsible for advising senior capstone projects for 35 seniors
 through the course of their projects development.
 
-[[senior-software-engineer]]
 Senior Software Engineer
 ^^^^^^^^^^^^^^^^^^^^^^^^
 
@@ -56,17 +66,16 @@ Constantly stayed current on the latest technologies and best practices
 in web and software development and always looking for ways to improve
 the quality of the team and our development process.
 
-[[research-assistant---webdbsysadmin]]
 Research Assistant - Web/DB/SysAdmin
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 _http://ucii.ceas.uc.edu/[University of Cincinnati Infrastructure
 Institute] - September 2008 - August 2014_
 
-Responsible for upgrading and converting the research group's web
+Responsible for upgrading and converting the research group’s web
 application for reporting the real time status of various bridge
 monitors or monitoring of sensor data projects which included a real
-time assessment of the general public's physical safety from potential
+time assessment of the general public’s physical safety from potential
 harm due to certain weather conditions. (see Paper below). The systems
 grew as several new projects were taken on at the beginning and through
 the time spent there. Most projects involved pretty complex decision
@@ -75,7 +84,6 @@ connections and several weather damaging events. Lead the group into
 rebuilding the whole system into a more robust and standardized solution
 from code down to methods for implementing new systems and new features.
 
-[[interim-it-director]]
 Interim IT Director
 ^^^^^^^^^^^^^^^^^^^
 
@@ -92,7 +100,6 @@ operations and computer classroom equipment. Managed $500,000 annual
 budget to support the 600+ computer systems, data center and staff
 salaries.
 
-[[applications-analyst]]
 Applications Analyst
 ^^^^^^^^^^^^^^^^^^^^
 
@@ -107,9 +114,8 @@ tolerance for critical applications and reduce redundancy of
 services/applications. Additional duties include the development of
 support materials (CMS or Technical knowledge, manuals, etc.),
 conducting occasional training sessions, moderate supervision of team
-members' projects and student workers.
+members’ projects and student workers.
 
-[[programmeranalyst]]
 Programmer/Analyst
 ^^^^^^^^^^^^^^^^^^
 
@@ -122,7 +128,6 @@ developing an in-house SGML/XML document management system to be used to
 synchronize on-line documents with in-house documents. Came up with an
 easy solution to convert MS Word documents to SML/XML DocBook markup.
 
-[[programmeranalyst-1]]
 Programmer/Analyst
 ^^^^^^^^^^^^^^^^^^
 
@@ -139,13 +144,11 @@ place into production. Resolve issues related to production software.
 Provide support for staff PCs and SunRay Workstations, including
 internal networking. Aid in development and support of internal software
 used daily by most of the staff which served the primary library or
-knowledge base for the company's product line and services.
+knowledge base for the company’s product line and services.
 
-[[education]]
 Education
 ~~~~~~~~~
 
-[[b.s.-information-engineering-technology]]
 B.S. Information Engineering Technology
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
@@ -154,7 +157,6 @@ _University of Cincinnati - September 1997 - June 2001_
 * *Senior Design Project*: Web-Based Virtual Laboratory (Content
 Management System)
 
-[[b.s.-mechanical-engineering-technology]]
 B.S. Mechanical Engineering Technology
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
@@ -163,9 +165,8 @@ _University of Cincinnati - September 1994 - June 2001_
 * *Senior Project*: Automated Data Collection System for Heat Transfer
 Laboratory Experiment
 
-[[ph.d.-abd-electrical-engineering]]
-Ph.D. (ABD) Electrical Engineering
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Ph.D. Electrical Engineering (All But Dissertation)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 _University of Cincinnati - September 2008 - May 2015_
 
@@ -175,17 +176,23 @@ Stochastic Models.
 * *Research Topic*: Calibration of Finite Element Models for Online
 Bridge Health Monitoring Systems
 
-[[publications]]
 Publications
 ~~~~~~~~~~~~
 
-https://www.researchgate.net/publication/257921037_Automated_Ice_Inference_and_Monitoring_on_the_Veterans_Glass_City_Skyway_Bridge[Kumpf,
-J., Helmicki, A., Nims, D., Hunt, V., and Agrawal, S. (2012). "Automated
-Ice Inference and Monitoring on the Veterans' Glass City Skyway Bridge."
-J. Bridge Eng. 17, SPECIAL ISSUE: Nondestructive Evaluation and Testing
-for Bridge Inspection and Evaluation, 975-978.]
+*https://www.researchgate.net/publication/257921037_Automated_Ice_Inference_and_Monitoring_on_the_Veterans_Glass_City_Skyway_Bridge[Automated
+Ice Inference and Monitoring on the Veterans’ Glass City Skyway
+Bridge.]* Kumpf, J., Helmicki, A., Nims, D., Hunt, V., and Agrawal, S.
+(2012). J. Bridge Eng. 17, SPECIAL ISSUE: Nondestructive Evaluation and
+Testing for Bridge Inspection and Evaluation, 975-978.
 
-[[references]]
+*Automated Health Monitoring of an Aged and Deteriorated Truss.* G
+Kimmel, J Kumpf, V Hunt, J Swanson, A Helmicki. Fall Conference &
+Quality Testing Show 2009, 2009
+
+*An integrated monitor and warning system for the Jeremiah Morrow
+bridge.* M Norouzi, J Kumpf, V Hunt, A Helmicki. Structural Materials
+Technology 2012, 2012
+
 References
 ~~~~~~~~~~
 
