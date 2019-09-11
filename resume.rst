@@ -16,10 +16,10 @@ Desktop Support Admin
 The client support services team needed a desktop support on-site lead
 for a customer and as a favor to the team lead who is my brother-in-law
 agreed to contract the position until they found a full time
-replacement. Responsabilities included supporting all aspects of
+replacement. Responsibilities included supporting all aspects of
 building and maintaining IT equipment and over 300 employees at the
-client location (CNSI - Rockville, MD). Other responsabilities included
-data center equipment maintinence and monitoring.
+client location (CNSI - Rockville, MD). Other responsibilities included
+data center equipment maintenance and monitoring.
 
 Software Engineer
 ~~~~~~~~~~~~~~~~~
