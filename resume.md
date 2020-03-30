@@ -1,6 +1,6 @@
 ﻿# Jason Kumpf
 
-__[Laurel, MD](https://goo.gl/maps/u9nSFWnf13CADqYo9) \| [kumpf.jason@gmail.com](mailto:kumpf.jason@gmail.com) \| [jasonkumpf.com](https://jasonkumpf.com) \| [Github](https://github.com/contd)__
+__Cincinnati, OH \| [kumpf.jason@gmail.com](mailto:kumpf.jason@gmail.com) \| [Github](https://github.com/contd)__
 
 ## Experience
 
@@ -58,6 +58,22 @@ In charge of developing a web application involving extensive Perl, XML, XSL, Ap
 
 Determine system requirements by working with programming manager, product managers, and others as needed. Provide technical perspective to high-level design discussions. Develop system designs that effectively meet user requirements, efficiently operate, and effectively integrate with other systems. Develop and write software that operates efficiently and provides flexibility for future revisions. Fully test software and place into production. Resolve issues related to production software. Provide support for staff PCs and SunRay Workstations, including internal networking. Aid in development and support of internal software used daily by most of the staff which served the primary library or knowledge base for the company's product line and services.
 
+
+
+# Skills
+
+| Programming        | Databases            | DevOps                    | System Admin                   |
+| ------------------ | -------------------- | ------------------------- | ------------------------------ |
+| Javascript: 15+yrs | MySQL: 15+yrs        | AWS: 5+yrs                | Linux/Unix: 20+yrs             |
+| Perl: 15+yrs       | MSSQL Server: 15+yrs | VMware/VirtualBox: 10+yrs | Windows NT-2016 Server: 20+yrs |
+| Php: 10+yrs        | SQLite: 15+yrs       | Docker: 7+yrs             | Active Directory: 15+yrs       |
+| Python: 10+yrs     | Postgresql: 5+yrs    | KVM: 5+yrs                | OSX/macOS: 15+yrs              |
+| C#: 15+yrs         | Mongodb: 5+yrs       | Kubernetes: 3yrs          | Ubuntu/Debian: 15+yrs          |
+| Node.js: 5+yrs     | Redis: 5+yrs         | GCE: 3yrs                 | Fedora/RHEL/CentOS: 15+yrs     |
+| Go: 4+yrs          | InfluxDB: 2yrs       | Terraform 2yrs            | Arch: 10+yrs                   |
+
+
+
 ## Education
 
 ### B.S. Information Engineering Technology
@@ -87,7 +103,3 @@ __[Automated Ice Inference and Monitoring on the Veterans' Glass City Skyway Bri
 __Automated Health Monitoring of an Aged and Deteriorated Truss.__ G Kimmel, J Kumpf, V Hunt, J Swanson, A Helmicki. Fall Conference & Quality Testing Show 2009, 2009
 
 __An integrated monitor and warning system for the Jeremiah Morrow bridge.__ M Norouzi, J Kumpf, V Hunt, A Helmicki. Structural Materials Technology 2012, 2012
-
-## References
-
-Available Upon Request

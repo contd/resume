@@ -1,8 +1,8 @@
 Jason Kumpf
 ===========
 
-`Laurel,
-MD <https://goo.gl/maps/u9nSFWnf13CADqYo9>`__\ **\|**\ kumpf.jason@gmail.com\ **\|**\ `jasonkumpf.com <https://jasonkumpf.com>`__\ **\|**\ `Github <https://github.com/contd>`__
+**Cincinnati, OH
+\|**\ kumpf.jason@gmail.com\ **\|**\ `Github <https://github.com/contd>`__
 
 Experience
 ----------
