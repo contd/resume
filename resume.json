@@ -1,18 +1,18 @@
 {
   "basics": {
     "name": "Jason Kumpf",
-    "label": "Developer",
+    "label": "Engineer",
     "picture": "",
     "email": "kumpf.jason@gmail.com",
     "phone": "(513) 685-0866",
-    "website": "https://jasonkumpf.com",
+    "website": "https://github.com/contd",
     "summary": "Highly motivated and work well in teams.  Self starter mostly self taught in most areas especially technical. Find great value working on teams and have learned a great deal from all team members. Versatile and able to quickly adapt to new situations and environments. Good at maintaining focused and composure under severe pressure. Handled IT crisis situations keeping focused and calm until the situation was resolved.",
     "location": {
-      "address": "13021 Old Stage Coach Rd. Apt 2511",
-      "postalCode": "20708",
-      "city": "Laurel",
+      "address": "PO Box 33107",
+      "postalCode": "45233",
+      "city": "Cincinnati",
       "countryCode": "US",
-      "region": "MD"
+      "region": "OH"
     },
     "profiles": [
       {
@@ -142,7 +142,7 @@
     {
       "institution": "University of Cincinnati",
       "area": "Electrical Engineering",
-      "studyType": "PhD - All But Dissertation",
+      "studyType": "PhD Unfinished - All But Dissertation",
       "location": "Cincinnati, Ohio",
       "startDate": "Sept, 2008",
       "endDate": "June, 2014",

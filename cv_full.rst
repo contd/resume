@@ -202,3 +202,32 @@ B.S. Mechanical Engineering Technology
 
 -  **Senior Project**: Automated Data Collection System for Heat
    Transfer Laboratory Experiment
+
+Ph.D. Electrical Engineering (All But Dissertation)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+*University of Cincinnati - September 2008 - May 2015*
+
+-  **Relevant Coursework**: Intelligent Systems, Multi-variable Control,
+   Stochastic Models.
+-  **Extra**: Completed the Preparing Future Faculty Training
+-  **Research Topic**: Calibration of Finite Element Models for Online
+   Bridge Health Monitoring Systems
+
+Publications
+------------
+
+`Automated Ice Inference and Monitoring on the Veterans’ Glass City
+Skyway
+Bridge. <https://www.researchgate.net/publication/257921037_Automated_Ice_Inference_and_Monitoring_on_the_Veterans_Glass_City_Skyway_Bridge>`__
+Kumpf, J., Helmicki, A., Nims, D., Hunt, V., and Agrawal, S. (2012). J.
+Bridge Eng. 17, SPECIAL ISSUE: Nondestructive Evaluation and Testing for
+Bridge Inspection and Evaluation, 975-978.
+
+**Automated Health Monitoring of an Aged and Deteriorated Truss.** G
+Kimmel, J Kumpf, V Hunt, J Swanson, A Helmicki. Fall Conference &
+Quality Testing Show 2009, 2009
+
+**An integrated monitor and warning system for the Jeremiah Morrow
+bridge.** M Norouzi, J Kumpf, V Hunt, A Helmicki. Structural Materials
+Technology 2012, 2012
